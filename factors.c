@@ -1,5 +1,11 @@
 #include "factors.h"
 
+/**
+ * main - main function
+ *
+ *
+ * Return: 0 (Success)
+ */
 int main(int argc, char **argv)
 {
 	FILE *fp;

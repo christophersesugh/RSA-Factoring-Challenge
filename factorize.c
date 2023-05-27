@@ -1,5 +1,11 @@
 #include "factors.h"
 
+/**
+ * factorize - factorize number into two factors
+ *@buffer: the input number to factor
+ *
+ * Return: 0
+ */
 int factorize(char *buffer)
 {
 	u_int32_t num, i;
