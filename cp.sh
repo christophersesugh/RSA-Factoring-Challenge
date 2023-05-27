@@ -1,4 +1,5 @@
 #!/bin/bash
 
 cp dist/factors .
-echo "File copied"
+cp dist/rsa .
+echo "Files copied"
