@@ -9,12 +9,12 @@ RSA Laboratories states that: for each RSA number n, there exists prime numbers 
 n = p x q
 ```
 ### Tasks
-#### - Factorize all the things.
+- Factorize all the things.
 
 
 Usage: `factors <file>`
 Where `<file>` is a file containing natural numbers to factor.
-#### - RSA Factoring Challenge
+- RSA Factoring Challenge
 
 
 RSA Laboratories states that: for each RSA number `n`, there exist prime numbers `p` and `q` such that `n = p × q`. The problem is to find these two primes, given only `n`.
